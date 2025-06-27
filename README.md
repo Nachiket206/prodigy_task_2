@@ -1,1 +1,1 @@
-# prodigy_task_2
+# prodigy_task_2_simple stop watch
